@@ -1,6 +1,6 @@
 [submodule "mps-install"]
 	path = mps-install
-	url = https://github.com/livemps/mps-install
+	url = ssh://git@github.com/livemps/mps-install
 [submodule "mps-desktop"]
 	path = mps-desktop
-	url = https://github.com/livemps/mps-desktop
+	url = ssh://git@github.com/livemps/mps-desktop
